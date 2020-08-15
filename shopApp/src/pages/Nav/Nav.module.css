@@ -1,0 +1,54 @@
+.Nav {
+  width: 100%;
+  align-items: center;
+  flex-direction: row;
+  background-color: #0b102b;
+}
+
+.Container {
+  width: 100%;
+}
+
+ul {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+.Nav > li {
+  flex-basis: 10%;
+}
+
+.Nav > li > a {
+  font-size: 16px;
+  font-weight: 100;
+  padding: 15px 35px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.Cart {
+  margin-left: 16%;
+  font-size: 16px;
+  font-weight: 100;
+  padding: 15px 35px;
+  color: #fff;
+  text-decoration: none;
+}
+
+.Cart img {
+  height: 50px;
+  padding: 0 10px;
+  /* display: block; */
+}
+
+.Status {
+  display: inline-block;
+  padding: 0 10px;
+  color: red;
+}

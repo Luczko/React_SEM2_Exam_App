@@ -1,0 +1,18 @@
+.Container {
+  width: 60%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+h1 {
+  font-size: 30px;
+  text-transform: uppercase;
+  padding: 15px 0;
+}
+
+.Products {
+  display: flex;
+  flex-wrap: wrap;
+}

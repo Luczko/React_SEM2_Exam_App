@@ -1,0 +1,11 @@
+.Search {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Clear {
+  color: #00a1b4;
+  text-decoration: none;
+  font-size: 13px;
+}

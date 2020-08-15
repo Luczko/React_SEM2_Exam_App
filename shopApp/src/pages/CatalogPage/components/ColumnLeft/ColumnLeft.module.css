@@ -1,0 +1,14 @@
+.Container {
+  width: 15%;
+}
+
+.Filter {
+  background-color: #f7f7f7;
+  padding: 5px 15px 20px;
+  margin-top: 5px;
+  margin-right: 10px;
+}
+
+.Catalog {
+  display: flex;
+}

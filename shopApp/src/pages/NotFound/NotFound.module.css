@@ -1,0 +1,8 @@
+.Image {
+  width: 400px;
+  height: 400px;
+  display: block;
+  padding-top: 50px;
+  margin: auto;
+  position: relative;
+}
